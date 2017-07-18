@@ -1,0 +1,142 @@
+.color-black{
+    color: #000000;
+}
+.color-white{
+    color: #FFFFFF !important;
+}
+.facebook-color{
+    color: #3b5998 !important;
+}
+.twitter-color{
+    color: #00aced !important;
+}
+.google-color{
+    color: #dd4b39 !important;
+}
+.youtube-color{
+    color: #bb0000 !important;
+}
+.linkedin-color{
+    color: #007bb6 !important;
+}
+.instagram-color{
+    color:  #517fa4 !important;
+}
+.color-white{
+    color: #FFFFFF;
+}
+.social-media-notes > a{
+    display: inline-block;
+    margin-right: 12px;
+    font-size: 17px;
+    line-height: 17px;
+}
+.social-media-notes a i:hover {
+    color: #222 !important;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+/* Content Media Magazine */
+.content-media{
+    margin-bottom: 0px;
+    height: 40px;
+}
+.content-media li{
+    display: inline-block;
+    margin: 8px 10px 0px;
+    font-size: 16px;
+}
+.content-media > li > a > i{
+    min-width: 14px;
+}
+.content-media > li > a {
+    padding: 6px 10px;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    border: 1px solid rgba(0,0,0,0.2);
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+}
+.content-media > li > a:hover i {
+     color: #fff !important;
+     -webkit-transition: all 0.2s ease-in-out;
+     transition: all 0.2s ease-in-out;
+     -webkit-transition: all 0.3s;
+     -moz-transition: all 0.3s;
+     -ms-transition: all 0.3s;
+     -o-transition: all 0.3s;
+ }
+.content-media li a.face:hover{
+    background: #2f4787;
+}
+.content-media li a.twi:hover{
+    background: #00aced;
+}
+.content-media li a.goog:hover{
+    background: #dd4b39;
+}
+.content-media li a.link:hover{
+    background: #007bb6;
+}
+.content-media li a.yout:hover{
+    background: #bb0000;
+}
+/* Content Media Magazine */
+.extends{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+/* Loader contact */
+.style-fa{
+    color: #3887b6;
+}
+.content-fa{
+    display: table !important;
+    width: 100%;
+    height: auto;
+}
+.content-fa > h1{
+    padding-top: 5%;
+    text-align: center;
+    font-size: 48px !important;
+}
+.content-fa > h5{
+    padding-top: 45%;
+    padding-bottom: 0px !important;
+    text-align: center;
+    width: 100%;
+    color: whitesmoke;
+    font-size: 20px!important;
+}
+.font-day{
+    color: #FFFFFF;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 44px;
+    margin: 0 0 0 2px;
+}
+.font-user{
+    font-size: 55px;
+}
+/* End Loader contact */
+/*Notes*/
+#article-post img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+/*Logo*/
+.logo-style{
+    margin-top: 2%;
+    display: block;
+}
+.logo-two{
+    display: block;
+    margin-top: 15%;
+}
+/*Section-Layout*/
+.section-full.cat-news-world{
+    background-color: #FF8642;
+}

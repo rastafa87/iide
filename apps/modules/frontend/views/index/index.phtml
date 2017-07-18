@@ -1,0 +1,209 @@
+<div class="container index">
+    <div class="row">
+            <div id="myCarousel" class="carousel slide col-md-8 col-xs-12 col-sm-12" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                    <li data-target="#myCarousel" data-slide-to="4"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <section class="cp-attorneys-team padding-tb-606 inve">
+                            <div class="cp-heading-1">
+                                <h2>Investigadores de <span>IIDE</span></h2>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6 col-4">
+                                <div class="cp-attorneys-style-2 investi">
+                                    <div class="frame">
+                                        <a href="/investigadores"><img src="/front/src/images/attorneys/<?=$invesfirst->getPhoto()?>" alt="img"></a>
+                                        <div class="caption hidden-xs">
+                                            <div class="holder">
+                                                <a href="/investigadores" class="btn-style-1">Ver Perfil</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cp-text-box inves">
+                                        <h3><a class="nameInveSlider" href="/investigadores"><?=$invesfirst->getName()?><br><?=$invesfirst->getLastname()?></a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <?php foreach($inves2 as $values):?>
+                                <div class="col-xs-6 col-4 visible-xs">
+                                    <div class="cp-attorneys-style-2 investi">
+                                        <div class="frame"> <a href="/investigadores">
+                                                <img src="/front/src/images/attorneys/<?=$values->getPhoto()?>" alt="img"></a>
+                                            <div class="caption hidden-xs">
+                                                <div class="holder">
+                                                    <a href="/investigadores" class="btn-style-1">Ver Perfil</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="cp-text-box inves">
+                                            <h3><a class="nameInveSlider" href="/investigadores"><?=$values->getName()?><br><?=$values->getLastname()?></a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach;?>
+                            <?php foreach($inves as $values):?>
+                                <div class="col-md-4 col-sm-4 hidden-xs">
+                                    <div class="cp-attorneys-style-2 investi">
+                                        <div class="frame"> <a href="/investigadores">
+                                                <img src="/front/src/images/attorneys/<?=$values->getPhoto()?>" alt="img"></a>
+                                            <div class="caption hidden-xs">
+                                                <div class="holder">
+                                                    <a href="/investigadores" class="btn-style-1">Ver Perfil</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="cp-text-box inves">
+                                            <h3><a class="nameInveSlider" href="/investigadores"><?=$values->getName()?><br><?=$values->getLastname()?></a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach;?>
+                            <section>
+                    </div>
+
+                    <div class="item">
+                        <div id="cp-banner">
+                            <div class="cp-heading-1">
+                                <h2>Sistema Electoral Iberoamericano</h2>
+                            </div>
+                            <img class="sistema-index" src="/front/src/images/mexico2.png" alt="img">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div id="cp-banner">
+                            <div class="cp-heading-1">
+                                <h2>Revista Elecciones y Democracia</h2>
+                            </div>
+                            <a href="/revista"><img class="magazine-index" src="/front/src/images/revista2.jpg" alt="img"></a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <section class="cp-practice-area cp-practice-space padding-top-60 index">
+                            <div class="cp-heading-1">
+                                <h2>ESTUDIA EN EL IIDE</h2>
+                            </div>
+
+
+                            <div class="col-md-6 col-sm-6 col-xs-6 ">
+                                <div class="cp-box">
+                                    <div class="frame"> <img src="/front/src/images/practice-area/2-column/marketing.jpg" alt="img">
+                                        <div class="caption"><a href="/oferta-de-estudio" class="link"><i class="fa fa-link"></i></a></div>
+                                    </div>
+                                    <div class="cp-text-box seminarios movil">
+                                        <h5 class="diplo"><a class="indexDiplomado" href="/oferta-de-estudio">Seminarios</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                                <div class="cp-box">
+                                    <div class="frame"> <img src="/front/src/images/practice-area/2-column/derechos-humanos2.jpg" alt="img">
+                                        <div class="caption"><a href="/oferta-de-estudio" class="link"><i class="fa fa-link"></i></a></div>
+                                    </div>
+                                    <div class="cp-text-box foros movil">
+                                        <h5 class="diplo"><a class="indexDiplomado" href="/oferta-de-estudio">Diplomados</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-sm-4 col-xs-4 hidden-xs">
+                                <div class="cp-box">
+                                    <div class="frame"> <img src="front/src/images/practice-area/2-column/practice-area-img-2.jpg" alt="img">
+                                        <div class="caption"><a href="/oferta-de-estudio" class="link"><i class="fa fa-link"></i></a></div>
+                                    </div>
+                                    <div class="cp-text-box news conferencias">
+                                        <h5 class="diplo"><a class="indexDiplomado" href="/oferta-de-estudio">Conferencias</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4 hidden-xs">
+                                <div class="cp-box">
+                                    <div class="frame"> <img src="front/src/images/practice-area/2-column/practice-area-img-1.jpg" alt="img">
+                                        <div class="caption"><a href="/oferta-de-estudio" class="link"><i class="fa fa-link"></i></a></div>
+                                    </div>
+                                    <div class="cp-text-box news talleres">
+                                        <h5 class="diplo"><a class="indexDiplomado" href="/oferta-de-estudio">Talleres</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-4 hidden-xs">
+                                <div class="cp-box">
+                                    <div class="frame"> <img src="/front/src/images/practice-area/2-column/derechos-humanos.jpg" alt="img">
+                                        <div class="caption"><a href="/oferta-de-estudio" class="link"><i class="fa fa-link"></i></a></div>
+                                    </div>
+                                    <div class="cp-text-box news diplomado">
+                                        <h5 class="diplo"><a class="indexDiplomado" href="/oferta-de-estudio">Foros</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="item">
+                        <section class="cp-practice-area cp-practice-space padding-top-60 index">
+                            <div class="cp-heading-1">
+                                <h2>NOTICIAS</h2>
+                            </div>
+
+                            <?php foreach($news as $new):?>
+                                <div class="col-md-4 col-sm-4 col-xs-6 hidden-xs">
+                                    <div class="cp-box">
+                                        <div class="frame"> <img src="/dash/img/notes/100x80/<?=$new->getImage()?>" alt="img">
+                                            <div class="caption"><a href="/noticias/nacionales/<?=$new->getPermalink()?>" class="link"><i class="fa fa-link"></i></a></div>
+                                        </div>
+                                        <div class="cp-text-box news">
+                                            <h4 class="title-news-slider"><a class="title-news-home" href="/noticias/nacionales/<?=$new->getPermalink()?>"><?=$new->getTitle()?></a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                            <?php foreach($newsmovil as $new):?>
+                                <div class="col-md-4 col-sm-4 col-xs-6 visible-xs">
+                                    <div class="cp-box">
+                                        <div class="frame"> <img src="/dash/img/notes/100x80/<?=$new->getImage()?>" alt="img">
+                                            <div class="caption"><a href="/noticias/nacionales/<?=$new->getPermalink()?>" class="link"><i class="fa fa-link"></i></a></div>
+                                        </div>
+                                        <div class="cp-text-box news">
+                                            <h4 class="title-news-slider"><a class="title-news-home" href="/noticias/nacionales/<?=$new->getPermalink()?>"><?=$new->getTitle()?></a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                            <p class="more-news"><a class="more-news" href="/noticias/nacionales">Ver más</a></p>
+                        </section>
+                    </div>
+                </div>
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        <div id="myCarousel2" class="carousel slide col-md-4 col-xs-12 col-sm-12 hidden-xs" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel2" data-slide-to="1"></li>
+            </ol>
+            <div class="carousel-inner redes">
+                <div class="item active">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="fb-page" data-href="https://www.facebook.com/IIDEMEXICO1/" data-tabs="timeline, messages, events" data-width="500" data-height="520" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/IIDEMEXICO1/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/IIDEMEXICO1/">Instituto Iberoamericano de Derecho Electoral</a></blockquote></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-md-12 col-sm-12 twitter">
+                        <a class="twitter-timeline"  href="https://twitter.com/IIDE_MEXICO" data-widget-id="281910885067399169">Tweets por el @IIDE_MEXICO.</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

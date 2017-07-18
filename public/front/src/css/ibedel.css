@@ -1,0 +1,2613 @@
+body{
+    font-family: 'Open Sans',sans-serif !important;
+}
+.container{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+ol.carousel-indicators.footer {
+    display: none !important;
+}
+.black{
+    color: #000000 !important;
+    font-weight: bold;
+}
+.pgwSlideshow .ps-caption{
+    font-size: 0.8rem;
+}
+h3.talleres a {
+    color: black !important;
+    font-weight: bold;
+}
+p.text.sitiointeres {
+    margin-left: 65px;
+}
+.navigation-right{
+    float: none !important;
+    margin: 5px 0 0 0 !important;
+}
+iframe.youtube {
+    width: 55% !important;
+}
+/***Width de iberonautas****/
+iframe#twitter-widget-0{
+    width: 80% !important;
+}
+/***Width de index****/
+.col-md-12.col-sm-12.twitter {
+    width: 126%;
+}
+.col-md-3.redes {
+    padding-top: 11px;
+}
+.twitter-tweet{
+    width: 100% !important;
+}
+.bhoechie-tab-content.active.twitter {
+    width: 65%;
+    margin-left: 13% !important;
+}
+div.frame.img-news{
+    width: 61%;
+    position: relative;
+    left: 18%;
+    margin-top: 0px;
+}
+.cp-news-listing-slider.news {
+    margin: 0 0 0 0;
+}
+a.new-titile{
+    color: black !important;
+}
+a.more-news {
+    margin-left: 50% !important;
+    font-size: 19px !important;
+    font-weight: bold;
+    color: white;
+    background-color: #552030;
+    padding: 6px;
+    left: 29% !important;
+    position: absolute;
+    margin-top: 50vh !important;
+}
+.cp-text-box.news{
+    position: absolute;
+    top: 0px;
+    height: 26%;
+    background-color: rgba(0,0,0,0.5);
+    width: 85.5% !important;
+    text-align: center;
+}
+div#myCarousel {
+    height: 63vh !important;
+    background-color: #a5a6ad;
+    padding-left: 7vw;
+    padding-right: 7vw;
+}
+a.title-news-home {
+    font-size: 11px !important;
+    color: white !important;
+    line-height: 10px !important;
+}
+div#myCarousel2 {
+    background-color: #35021c;
+    height: 63vh;
+}
+.cp-attorneys-style-2{
+    border: 0px solid #000000;
+}
+.cp-heading-1 {
+    padding: 2vh 0 3vh 0;
+}
+
+
+#owl-demo .item{
+    padding: 0px;
+    margin: 0px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+#owl-demoOPLES .item{
+    padding: 0px;
+    margin: 0px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+.customNavigation{
+    text-align: center;
+}
+.customNavigation a{
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+#owl-demo .item img{
+    width: 40% !important;
+}
+
+
+a.salamanca{
+	color: #570b31 !important;
+    font-weight: normal !important;
+    font-size: 15px !important;
+    background-image: url(../images/separacionInferior.png) !important;
+    background-position: center right !important;
+    background-repeat: no-repeat !important;
+    padding-right: 17px !important;
+    padding: 0 15px 0 10px !important;
+}
+.cp-head-topbar{
+	background-color: #808080 !important;
+	padding: 1px 0 !important;
+}
+/*.cp-head-topbar .left-box ul li a, .fa-facebook-f:before, .fa-facebook:before, .cp-head-topbar .left-box ul li, .fa-instagram:before, .fa-twitter:before, .fa-google-plus:before{
+	color: white !important;
+	font-size: 13px;
+}*/
+input#edit-search-block-form--2{
+    margin-right: 18px !important;
+    width: 29% !important;
+}
+input#edit-search-block-form--2 {
+    background-color: #fff;
+    border-width: 0;
+    color: #808080;
+    font-size: 10px;
+    font-style: italic;
+    height: 20px;
+    padding-bottom: 0;
+    padding-left: 16px;
+    padding-top: 0;
+    background-image: url(../images/buscar_icon.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 1px #999 solid;
+}
+/*.fa-facebook:before, .fa-instagram:before, .fa-twitter:before, .fa-google-plus:before{
+    color: #552030 !important;
+}*/
+.copy2{
+    color: #552030 !important;
+}
+.cp-award-section .cp-award-box{
+    margin: 0 0 0 0 !important;
+}
+.cp-award-section .cp-award-box .icon-box{
+    margin: 32px 0 0 0;
+    height: 83px;
+}
+.fix{
+    height: 50px;
+}
+.copy2{ 
+    font:400 14px/14px 'Open Sans',sans-serif; 
+    text-align: right;
+    color: white; 
+    float: right;
+    position: relative;
+    left: -30px; 
+    top:30px;
+}
+.sizefont{
+    font-size: 20px !important;
+}
+.fa-facebook-f:before, .fa-facebook:before, .fa-twitter:before, .fa-youtube:before {
+    font-size: 27px !important;
+}
+
+p.text {
+    line-height: 16px !important;
+    text-align: center !important;
+    width: 72px !important;
+    margin-top: 1px !important;
+    margin-right: 17px !important;
+    font-size: 10px !important;
+    color: #404040 !important;
+    text-transform: uppercase !important;
+    float: left !important;
+}
+span.sep {
+    width: 1px;
+    background-color: #808080;
+    height: 25px;
+    float: left;
+    margin-top: 4px;
+    margin-right: 10px;
+    margin-right: 15px;
+}
+
+ul.header li{
+    color: #fff !important;
+    float: left !important;
+    font-size: 11px !important;
+    font-style: italic !important;
+    font-weight: normal !important;
+    letter-spacing: 1px !important;
+    line-height: 20px !important;
+    padding-left: 0 !important;
+    text-transform: none !important;
+    opacity: 0.8 !important;
+}
+input#edit-search-block-form--2 {
+    float: right;
+}
+h4.sitios {
+    /font-size: 12px;
+    text-align: center;
+}
+.padding-top-606{
+    padding:10px 0;
+}
+
+/*******Vista Inicio********/
+.padding-top-60{
+    padding:50px 0;
+}
+/*Tamaños de imagen en investigadores*/
+.cp-attorneys-style-2 .frame{
+    height: 145px !important;
+}
+.cp-attorneys-style-2 {
+    width: 184px;
+}
+div#inner-banner {
+    height: 130px !important
+}
+
+a.title-news-home{
+    font-size: 16px;
+    color: white !important;
+}
+.cp-practice-area .cp-box .frame{
+    margin: 0 0 5px 0;
+}
+/********Fin Vista Inicio*********/
+
+.logo-box{
+    height: 125px;
+    width: 125px;
+}
+
+
+/*header#header {
+    border-bottom: 3px solid #552030;
+}
+.col-md-3.redes {
+    border-left: 3px solid #552030;
+}*/
+
+
+
+.fa-twitter:before {
+    color: #37a7df !important;
+}
+
+.fa-youtube:before {
+    color: #cc2920 !important;
+}
+
+.main-navigation {
+    float: left;
+    background-color: #fff;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    height: 40px;
+    top: 120px;
+}
+
+.main-navigation > ul {
+    display: inline-block;
+    width: 1000px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.main-navigation ul, .main-navigation ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    list-style-image: none;
+}
+ul.menu.rojo > li {
+    display:inline-block
+}
+
+.main-navigation > ul li span.main a {
+    color: #fff;
+    opacity: 1;
+    cursor: pointer;
+}
+.main-navigation ul li span a {
+    padding-bottom: 0;
+    padding-top: 0;
+    font-size: 16px;
+    font-weight: normal;
+}
+.main-navigation > ul.rojo > li {
+    width: 34.33%;
+    text-align: center;
+    height: 40px;
+}
+.main-navigation> ul li span.main a{
+    color: #552030 !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 14px;
+    font-size: 12px;
+    padding: 10px;
+}
+.main-navigation> ul li span.main p.letraMenu.system{
+    width: 160px !important;
+    left: -3.5vw !important;
+    top: -70px !important;
+}
+.main-navigation> ul li span.main p.letraMenu{
+    color: #552030 !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 37px;
+    font-size: 12px;
+    padding: 4px;
+    width: 149px;
+}
+h3.titleRedesIberonautas{
+    padding: 0 0 0 0 !important;
+    left: -3%;
+}
+p.letraMenu {
+    position: absolute;
+    bottom: 0px;
+    left: 45%;
+}
+p.letraMenu.new {
+    top: -74px;
+    left: -4vw;
+}
+img.quees, img.fines, img.objetivos {
+    height: 20vh !important;
+}
+.frame.quienes {
+    left: 0% !important;
+    width: 100% !important;
+}
+.a{
+    background: #552030; /* Old browsers */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#552030), color-stop(40%,#552030),color-stop(40%,#fff), color-stop(60%,#fff), color-stop(60%,#5a5c73), color-stop(100%,#5a5c73)); /* Chrome,Safari4+ */
+    background: linear-gradient(to right,  #552030 0%,#552030 40%,#fff 40%,#fff 60%,#5a5c73 60%,#5a5c73 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#552030', endColorstr='#5a5c73',GradientType=1 ); /* IE6-9 */
+}
+
+i.fa.fa-home, i.fa.fa-bank, i.fa.fa-building-o, i.fa.fa-money,i.fa.fa-car, i.fa.fa-male, i.fa.fa-thumbs-o-up, i.fa.fa-legal, i.fa.fa-trophy{
+    background-color: #552030 !important;
+}
+.cp-theme-style-1 p{
+    font-size: 14px !important;
+    font: 300 14px/17px 'Open Sans',sans-serif;
+}
+.cp-theme-style-1 a.btn-style-1 {
+    padding: 5px 15px !important;
+    font-size: 9px !important;
+}
+.cp-attorneys-style-2 .frame .caption p {
+    margin: 0;
+}
+.cp-attorneys-style-2 .frame .caption .holder {
+    padding: 0 20px;
+}
+.cp-contact-style-1 .left-box input[type="submit"],
+.cp-contact-style-1 .left-box input[type="submit"]:hover{
+    background-color: #552030 !important;
+}
+
+/******** Menu ******/
+.cp-navigation-section{
+    padding: 5px 0 15px 0 !important;
+}
+strong.logo.visible-md.visible-lg {
+    width: 15% !important;
+}
+i.fa.fa-home.inicio {
+    background-color: white !important;
+    color: black;
+}
+p.letraMenu {
+    position: absolute;
+    bottom: 0px;
+    left: 45%;
+}
+img.menuFondo {
+    height: 115%;
+    margin-top: -5px;
+}
+p.menu{
+    font: 400 16px/13px 'Open Sans',sans-serif;
+    font-size: 14px !important;
+}
+p.letraMenu {
+    line-height: 21px;
+}
+
+/******** Fin Menu *********/
+
+/*****Footer ******/
+
+li.colorFooter, strong.copy2 {
+    color: #f2f2f2 !important;
+}
+.cp-copyright-section1 {
+    width: 100%;
+    bottom: 0;
+    position:fixed;
+    height: 50px;
+    z-index: 999;
+    background: #f2f2f2;
+    left: 0px;
+    padding-top: 5px;
+    border-style: solid;
+    border-top-color: #552030 !important;
+}
+.footer-social1 {
+    margin: 0;
+    list-style: none;
+    float: left;
+    width: 100%;
+    position: relative;
+    top: 0;
+}
+.footer-social1 li{
+    float: left;
+    padding: 0 13px  0;
+    position: relative;
+    top:0px; left: 5%;
+    color: #552030;
+}
+img.sitiosInteres{
+    width: 24%;
+}
+li.sitiosInteres {
+    text-decoration: none !important;
+    list-style: none !important;
+    margin-left: 0px !important;
+    width: 115px;
+    padding: 0;
+    text-align: center;
+}
+/******** Fin Footer **********/
+
+/******** Investigadores *******/
+p.investigadores {
+    font-size: 13px !important;
+}
+.cp-theme-style-1 h2{
+    font: 700 33px 'Open Sans',sans-serif !important;
+    color: #4b5066;
+}
+
+/******** Fin Investigadores ********/
+
+
+
+/********* Tabs Revista *************/
+.tabMagazine {
+    background-color: #5a5c73;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover{
+    color: #ffffff !important;
+    background-color: #552030 !important;
+}
+a.magazine2, h3.magazine2, p.magazine2, ul.magazine2, li.magazine2{
+    color: #ffffff !important;
+}
+.tab-content {
+    padding: 30px;
+}
+div#tab-magazine {
+line-height: 12px !important;
+}
+.modal{
+    width: 636px !important;
+    background-color: transparent !important;
+}
+.btn-info:hover{
+    background-color: #552030 !important;
+}
+
+.btn-info{
+    background-color: #5a5c73 !important;
+}
+button.btn.btn-info.btn-lg {
+    width: 120%;
+    padding: 0 0px 2px 0px;
+}
+button.btn.btn-info.btn-lg {
+    position: relative !important;
+    display: block !important;
+    padding: 10px 15px !important;
+    margin-bottom: -1px !important;
+    background-color: #fff !important;
+    border: 1px solid #ddd !important;
+    color: black;
+}
+button.btn.btn-info.btn-lg:hover {
+    background-color: #552030 !important;
+}
+
+
+/*  bhoechie tab */
+div.bhoechie-tab-container{
+    z-index: 10;
+    background-color: #ffffff;
+    padding: 0 !important;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    border:1px solid #ddd;
+    margin-top: 0px;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    -moz-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    background-clip: padding-box;
+    opacity: 0.97;
+    filter: alpha(opacity=97);
+}
+div.bhoechie-tab-menu{
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+div.bhoechie-tab-menu div.list-group{
+    margin-bottom: 0;
+}
+div.bhoechie-tab-menu div.list-group>a{
+    margin-bottom: 0;
+}
+div.bhoechie-tab-menu div.list-group>a .glyphicon,
+div.bhoechie-tab-menu div.list-group>a .fa {
+    color: #5A55A3;
+}
+div.bhoechie-tab-menu div.list-group>a:first-child{
+    border-top-right-radius: 0;
+    -moz-border-top-right-radius: 0;
+}
+div.bhoechie-tab-menu div.list-group>a:last-child{
+    border-bottom-right-radius: 0;
+    -moz-border-bottom-right-radius: 0;
+}
+div.bhoechie-tab-menu div.list-group>a.active,
+div.bhoechie-tab-menu div.list-group>a.active .glyphicon,
+div.bhoechie-tab-menu div.list-group>a.active .fa{
+    background: #5A55A3;
+    color: #ffffff;
+}
+div.bhoechie-tab-menu div.list-group>a.active:after{
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    margin-top: -13px;
+    border-left: 0;
+    border-bottom: 13px solid transparent;
+    border-top: 13px solid transparent;
+    border-left: 10px solid #5A55A3;
+}
+
+div.bhoechie-tab-content{
+    background-color: #ffffff;
+    /* border: 1px solid #eeeeee; */
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+div.bhoechie-tab div.bhoechie-tab-content:not(.active){
+    display: none;
+}
+
+.col-lg-5.col-md-5.col-sm-12.col-xs-12 {
+    margin-top: 120px;
+}
+.col-lg-6.col-md-6.col-sm-12.col-xs-12.bhoechie-tab-container {
+    margin-top: 120px;
+}
+img.virtual {
+    margin-left: 25%;
+}
+a.list-group-item.active.text-center {
+    background-color: #552030 !important;
+}
+div.bhoechie-tab-menu div.list-group>a.active{
+    background-color: #552030 !important;
+}
+div.bhoechie-tab-menu div.list-group>a.active .glyphicon{
+    background-color: #552030 !important;
+}
+div.bhoechie-tab-menu div.list-group>a.active:after{
+    border-left: 10px solid #552030;
+}
+div.bhoechie-tab-menu div.list-group>a .glyphicon{
+    color: #552030;
+}
+p.text-justify {
+    color: black;
+    font-size: 16px !important;
+}
+/*********Fin Tabs Revista***********/
+/*********Vista Noticia Detalle***********/
+img.image-autor{
+    border-radius: 50%;
+}
+.cp-tweet-box .frame{
+    width: 80% !important;
+}
+
+.detail-row.minuto {
+    /* float: left; */
+    width: 100%;
+    padding: 20% 10%;
+}
+a.date-news {
+    font-size: 20px !important;
+    color: black !important;
+}
+.frame.cp-img-effect-1.diplomado {
+    border-radius: 1%;
+    height: 30vh;
+}
+a.name-directory {
+    color: black !important;
+}
+.cp-blog .cp-post-box .frame{
+    left: 20%;
+    width: 70%;
+}
+.cp-blog .cp-post-box .frame img{
+    height: 35vh;
+    width: 100%;
+}
+/*********Fin Vista Noticia Detalle***********/
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+/******Vista Iberonautas******/
+div#disqus_thread {
+    height: 250px !important;
+}
+h3.titleRedesIberonautas {
+    text-align: center;
+    color: #552030;
+    font-weight: 600;
+   /* background-color: #5a2737;*/
+}
+p.letraMenu.diplomados {
+    /* line-height: 23px !important; */
+    /* left: 40%; */
+    left: -42px !important;
+    top: -76px !important;
+}
+i.fa.fa-facebook {
+    color: #337ab7 !important;
+}
+.col-lg-10.col-md-10.col-sm-10.col-xs-10.bhoechie-tab.iberonautas {
+    text-align: center;
+}
+/*h4.fa.fa-twitter:before, h4.fa.fa-youtube:before, h4.fa.fa-facebook:before{
+    color: #fff !important;
+    font-size: 30px !important;
+    background-color: #552030;
+}
+.fa-facebook:before, .fa-instagram:before, .fa-twitter:before, .fa-google-plus:before, .fa-youtube:before{
+    color: #552030 !important;
+}*/
+
+/******Fin de Vista Iberonautas******/
+
+
+/******Vista Quienes Somos******/
+.cp-heading-1 em, em.text-justify{
+    font: 400 16px/26px 'Open Sans',sans-serif !important;
+    color: #000000 !important;
+}
+a.list-group-item{
+    font-size: 13px;
+}
+
+/****** Fin Vista Quienes Somos******/
+
+/******Vista Estudia en el IIDE******/
+img.estudio {
+    width: 100%;
+}
+.cp-box.estudio {
+    padding: 13px;
+}
+/******Fin Vista Estudia en el IIDE******/
+
+
+/*******Vista OPLES********/
+p.oples-title {
+    font-size: 10px !important;
+    color: black;
+    font-weight: 700;
+    line-height: 10px;
+}
+h4.title-oples {
+    color: black;
+    font-weight: 600;
+    padding: 20px 0 34px;
+    text-align: center;
+}
+.frame.oples{
+    border-radius: 5%;
+}
+/********Fin Vista OPLES**********/
+
+
+
+
+/************** MEDIA QUERIES *****************/
+
+
+
+/***** Iphone 6 y 6 plus ********/
+
+@media (min-width: 320px) and (max-width: 480px){
+    div#myCarousel{
+        height: 50vh !important;
+        margin-top: 35px;
+    }
+    .cp-text-box.news{
+        width: 79.5% !important;
+    }
+    .cp-text-box.seminarios.movil, .cp-text-box.foros.movil {
+        width: 80% !important;
+    }
+    img.magazine-index{
+        height: 23vh !important;
+    }
+    a.more-news{
+        margin-left: 33% !important;
+    }
+    .cp-copyright-section1{
+        height: 100px;
+    }
+    img.sitiosInteres{
+        width: 100%;
+    }
+    /*****IIDE vista*****/
+    a.list-group-item.text-center.about {
+        height: 12.3vh !important;
+        padding-top: 0vh !important;
+        font-size: 14px;
+        line-height: 13px;
+    }
+    h4.glyphicon.glyphicon-bookmark, h4.glyphicon.glyphicon-search, h4.glyphicon.glyphicon-star {
+        font-size: 12px;
+    }
+    .cp-blog .cp-post-box{
+        padding-bottom: 14px;
+        max-height: 56vh !important;
+    }
+    .cp-theme-style-1 h3.black, .cp-theme-style-1 h3.black span{
+        font-size: 12px;
+        line-height: 11px;
+        font-weight: bold;
+    }
+    p.text-justify {
+        font-size: 9px !important;
+        line-height: 10px !important;
+    }
+    img.quees, img.fines, img.objetivos {
+        height: 17vh !important;
+    }
+    .cp-heading-1 em{
+        padding: 0 0 0 0px;
+        margin: 0px 0 5px 0;
+    }
+    em.text-justify {
+        font-size: 12px !important;
+        line-height: 11px !important;
+    }
+    .accordion_cp{
+        font: 11px/9px 'Open Sans',sans-serif;
+        font-size: 9px !important;
+        padding: 2px 0px 13px 33px;
+    }
+    .cp-blog .cp-post-box .frame{
+        margin: 0 0 0 0;
+    }
+    .accordions-row {
+        margin-top: 6px;
+    }
+    div.content_cp_accor {
+        padding: 0 0 0;
+    }
+    div#myTababout {
+        height: 61.5vh !important;
+    }
+    .cp-sidebar {
+        margin-top: 15px;
+    }
+    .cp-sidebar-box{
+        margin: 0 0 0 0;
+        margin-bottom: 45vh;
+    }
+    .padding-top-60{
+        padding: 0px !important;
+        margin-top: 2vh;
+    }
+    #parallelogram{
+        margin-left: -44px;
+    }
+    #parallelogram2{
+        width: 40vw !important;
+        margin-left: -8px !important;
+    }
+    /* section.cp-navigation-section {
+         margin-bottom: -11vh;
+     }*/
+
+    /*****Estudia en el IIDE *****/
+    .col-lg-12.col-md-12.col-sm-12.col-xs-12.bhoechie-tab-container{
+        margin-top: 1vh !important;
+    }
+    a.list-group-item.text-center {
+        padding: 0px !important;
+        font-size: 8px !important;
+    }
+    .cp-box.estudio{
+        padding: 0px;
+    }
+    div.bhoechie-tab-content{
+        padding-left: 0px;
+    }
+    li.conferencias{
+        line-height: 10px;
+    }
+    ul.confe{
+        margin: 0 0 0 0;
+    }
+    a.conferencia {
+        font-size: 9px;
+    }
+    h3.titleconferencias {
+        font-size: 13px;
+        font-weight: 900;
+    }
+    img.conferencias.mCS_img_loaded {
+        height: 14vh !important;
+        width: 15vh !important;
+        padding-bottom: 0px !important;
+        padding-top: 11px !important;
+    }
+    img.estudio.mCS_img_loaded{
+        height: 14.4vh !important;
+    }
+    .cp-theme-style-1 h3 a {
+        font-size: 6px !important;
+        line-height: 0px !important;
+    }
+    .cp-theme-style-1 h3 {
+        font: 400 8px/10px 'Open Sans', sans-serif;
+        margin: 0 0px 0px 0 !important;
+    }
+    p.text-justify.foros {
+        font-size: 7px !important;
+        line-height: 6px !important;
+    }
+    .cp-theme-style-1 a.btn-style-1{
+        font-size: 5px !important;
+    }
+    a.btn-style-1 {
+        margin-top: 5px;
+    }
+    div#mCSB_5 {
+        left: 0px !important;
+    }
+    p.text-justify {
+        font-size: 8px !important;
+        line-height: 6px !important;
+    }
+    /*** Investigadores *****/
+    section.cp-attorneys-team.cp-attorneys-team-space-2.padding-top-60.investigadores{
+        width: 100vw;
+    }
+    .pgwSlideshow.narrow .ps-caption{
+        font-size: 7px;
+        line-height: 6px;
+    }
+    .ps-current{
+        height: 44vh !important;
+    }
+    span.ps-caption {
+        width: 96vw !important;
+        top: 72% !important;
+        height: 90px !important;
+    }
+    .pgwSlideshow .ps-current>ul>li img{
+        position: relative;
+        left: 38%;
+    }
+    .cp-theme-style-1 p{
+        font-size: 9px !important;
+    }
+    /****** Vista de revista *****/
+    a.list-group-item.text-center.magazine{
+        line-height: 10px;
+    }
+
+    /***** Vista de Directorio ******/
+    .cp-award-section .cp-award-box .logo-box{
+        margin-top: 5px !important;
+        width: 43%;
+        margin-left: 26% !important;
+    }
+    .cp-award-section .cp-award-box .text-box{
+        width: 78vw !important;
+        margin: 0 0 0 0 !important;
+    }
+    .cp-award-box{
+        padding-top: 0px !important;
+    }
+    .cp-theme-style-1 h3{
+        text-align: center !important;
+    }
+    .cp-theme-style-1 h3 a {
+        font-size: 13px !important;
+    }
+    .cp-award-section{
+        margin: 0 0 164px 0;
+    }
+
+    /***** Vista contactanos *******/
+    .cp-map-row{
+        margin: 60px 0 80px 0;
+    }
+}
+
+/***** Iphone 5 y 5s *******/
+@media (max-width: 320px){
+    div#myCarousel{
+        height: 45vh !important;
+    }
+    .cp-text-box.news{
+        width: 76.5% !important;
+    }
+    .cp-text-box.seminarios.movil, .cp-text-box.foros.movil {
+        width: 77% !important;
+    }
+    img.magazine-index{
+        height: 23vh !important;
+    }
+    a.more-news{
+        margin-left: 33% !important;
+    }
+    .cp-copyright-section1{
+        height: 95px;
+    }
+    img.sitiosInteres{
+        width: 100%;
+    }
+    .padding-top-60.about {
+        margin-top: 18px;
+    }
+    .main-navigation{
+        top: 100px;
+    }
+
+    p.titleview{
+        font-size: 10px !important;
+    }
+    .col-md-8.col-xs-12.sliderhome {
+        width: 90vw;
+    }
+    div#jssor_1{
+        width: 260px !important;
+    }
+    section.cp-attorneys-team.padding-tb-606.inve, section.cp-practice-area.cp-practice-space.padding-top-60.index, #cp-banner {
+        width: 260px;
+    }
+    .cp-attorneys-style-2 {
+        width: 113px !important;
+        height: 130px !important;
+    }
+    .padding-top-60{
+        padding: 0px !important;
+    }
+    .cp-text-box h4{
+        line-height: 12px;
+    }
+    .jssora08l:hover {
+        background-position: -5px -46px;
+    }
+    div#myTababout {
+        height: 51.5vh;
+    }
+    /*****IIDE vista*****/
+    a.list-group-item.text-center.about {
+        height: 12.3vh !important;
+        padding-top: 0vh !important;
+        font-size: 11px;
+        line-height: 10px;
+    }
+    h4.glyphicon.glyphicon-bookmark, h4.glyphicon.glyphicon-search, h4.glyphicon.glyphicon-star {
+        font-size: 12px;
+    }
+    .cp-blog .cp-post-box{
+        padding-bottom: 14px;
+        max-height: 56vh !important;
+    }
+    .cp-theme-style-1 h3.black, .cp-theme-style-1 h3.black span{
+        font-size: 12px;
+        line-height: 11px;
+        font-weight: bold;
+    }
+    p.text-justify {
+        font-size: 9px !important;
+        line-height: 7px !important;
+    }
+    img.quees, img.fines, img.objetivos {
+        height: 17vh !important;
+    }
+    .cp-heading-1 em{
+        padding: 0 0 0 0px;
+    }
+    em.text-justify {
+        font-size: 10px !important;
+        line-height: 8px !important;
+    }
+    .accordion_cp{
+        font: 9px/9px 'Open Sans',sans-serif;
+        font-size: 9px !important;
+        padding: 5px 8px 5px 33px;
+    }
+    .cp-blog .cp-post-box .frame{
+        margin: 0 0 0 0;
+    }
+    .accordions-row {
+        margin-top: 6px;
+    }
+    div.content_cp_accor {
+        padding: 0 0 0;
+    }
+    div#myTababout {
+        height: 61.5vh !important;
+    }
+    .cp-sidebar {
+        margin-top: 15px;
+    }
+    .cp-sidebar-box{
+        margin: 0 0 0 0;
+        margin-bottom: 45vh;
+    }
+    /**** Estudia en el IIDE  ******/
+    #parallelogram{
+        margin-left: -97% !important;
+        width: 37.8vw;
+    }
+    #parallelogram2 {
+        width: 29vw !important;
+        margin-left: -5px !important;
+    }
+    .col-lg-12.col-md-12.col-sm-12.col-xs-12.bhoechie-tab-container{
+        margin-top: 1vh !important;
+    }
+    a.list-group-item.text-center {
+        font-size: 7px !important;
+        height: 12.05vh !important;
+        padding: 0px !important;
+    }
+    .cp-box.estudio{
+        padding: 0px;
+    }
+    div.bhoechie-tab-content{
+        padding-left: 0px;
+    }
+    li.conferencias{
+        line-height: 10px;
+    }
+    ul.confe{
+        margin: 0 0 0 0;
+    }
+    a.conferencia {
+        font-size: 9px;
+    }
+    section.cp-practice-style-1.padding-tb-60.oferta {
+        margin-top: 5% !important;
+        margin-bottom: 30% !important;
+    }
+    h3.titleconferencias {
+        font-size: 13px;
+        font-weight: 900;
+    }
+    img.conferencias.mCS_img_loaded {
+        height: 14vh !important;
+        width: 15vh !important;
+        padding-bottom: 0px !important;
+        padding-top: 11px !important;
+    }
+    img.estudio.mCS_img_loaded{
+        height: 14.4vh !important;
+    }
+    .cp-theme-style-1 h3 a {
+        font-size: 6px !important;
+        line-height: 0px !important;
+    }
+    .cp-theme-style-1 h3 {
+        font: 400 8px/10px 'Open Sans', sans-serif;
+        margin: 0 0px 0px 0 !important;
+    }
+    p.text-justify.foros {
+        font-size: 7px !important;
+        line-height: 6px !important;
+    }
+    .cp-theme-style-1 a.btn-style-1{
+        font-size: 5px !important;
+    }
+    a.btn-style-1 {
+        margin-top: 5px;
+    }
+    div#mCSB_5 {
+        left: 0px !important;
+    }
+    .padding-tb-60 {
+        padding: 10px 0 !important;
+    }
+    /*** Investigadores *****/
+    section.cp-attorneys-team.cp-attorneys-team-space-2.padding-top-60.investigadores{
+        width: 320px;
+    }
+    .pgwSlideshow.narrow .ps-caption{
+        font-size: 7px;
+        line-height: 6px;
+    }
+    .ps-current{
+        height: 44vh !important;
+    }
+    span.ps-caption {
+        width: 303px !important;
+        top: 62% !important;
+        height: 105px !important;
+    }
+    .pgwSlideshow .ps-current>ul>li img{
+        position: relative;
+        left: 38%;
+    }
+    /**** Vista de Sistema *****/
+    div#vmap{
+        height: 306px !important;
+    }
+
+    /***** Vista de Directorio ******/
+    .cp-award-section .cp-award-box .logo-box{
+        margin-top: 5px !important;
+        width: 53%;
+        margin-left: 26% !important;
+    }
+    .cp-award-section .cp-award-box .text-box{
+        width: 75vw !important;
+        margin: 0 0 0 0 !important;
+    }
+    .cp-award-box{
+        padding-top: 0px !important;
+    }
+    .cp-theme-style-1 h3{
+        text-align: center !important;
+    }
+    .cp-award-section{
+        margin: 0 0 164px 0;
+    }
+
+    /****** Vista de revista *****/
+    a.list-group-item.text-center.magazine{
+        line-height: 10px;
+    }
+    /****** Vista de noticias ******/
+    a.date-news{
+        font-size: 13px !important;
+    }
+    .cp-tweet-box .cp-text-box.newsbox{
+        padding: 15px 0 0 0;
+    }
+    .cp-tweet-box .cp-text-box p.newsall{
+        margin: 0 0 0 0;
+    }
+    .detail-row ul li:first-child{
+        padding: 26px 17px 10px 0;
+    }
+    .padding-top-60.newsection{
+        margin-bottom: 40% !important;
+    }
+    .contenido-noticia {
+        min-width: 100%;
+    }
+    #parallelogram.newsview {
+        margin-left: -55% !important;
+        width: 37.8vw;
+    }
+}
+
+/****** Iphone 5 y 5s en landscape *********/
+@media (min-width: 320px) and (orientation: landscape){
+    div#myCarousel{
+        height: 55vh !important;
+    }
+    .cp-copyright-section1{
+        height: 80px !important;
+    }
+    img.sitiosInteres{
+        width: 48%;
+        margin-top: -2px !important;
+    }
+    .cp-navigation-section {
+        padding: 5px 0 0px 0 !important;
+    }
+    #header{
+        height: 60px !important;
+    }
+    .logo.visible-xs> a> img {
+        width: 26%!important;
+    }
+    .navigation-right .navbar-inverse {
+        padding-top: 0px !important;
+    }
+    ol.carousel-indicators {
+        display: none;
+    }
+    #cp-banner img{
+        width: 76%;
+        margin-left: 8%;
+    }
+    .cp-practice-area .cp-box .frame img {
+        height: 34vh !important;
+    }
+    .cp-text-box.seminarios.movil, .cp-text-box.foros.movil{
+        width: 87.5% !important;
+    }
+    .cp-text-box.news{
+        width: 83% !important;
+    }
+    .carousel-inner {
+        padding-top: 0px !important;
+    }
+    p.more-news {
+        display: none;
+    }
+    /****** Vista de noticias ******/
+    a.date-news{
+        font-size: 13px !important;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 768px){
+    div#myCarousel{
+        height: 54vh !important;
+        margin-top: 35px;
+    }
+    #twitter-widget-0{
+        max-width: 55% !important;
+        margin-left: 12%;
+    }
+    .fb-page.fb_iframe_widget{
+        margin-left: 14%;
+    }
+    .cp-copyright-section1{
+        height: 80px;
+    }
+    /** IIDE vista ****/
+    p.text-justify {
+        color: black;
+        font-size: 13px !important;
+    }
+    .cp-heading-1 em, em.text-justify {
+        font: 400 15px/21px 'Open Sans',sans-serif !important;
+    }
+    div#myTababout {
+        height: 64.5vh !important;
+    }
+    a.list-group-item.text-center.about{
+        height: 12.9vh !important;
+    }
+    .cp-practice-area ul li a {
+        font: 9px/38px 'Open Sans', sans-serif;
+    }
+    .cp-theme-style-1 h3 {
+        font: 400 17px/24px 'Open Sans', sans-serif;
+    }
+    #parallelogram {
+        width: 31.8vw;
+    }
+    .col-lg-12.col-md-12.col-sm-12.col-xs-12.bhoechie-tab-container{
+        margin-top: 1vh !important;
+    }
+    /*** Investigadores *****/
+    section.cp-attorneys-team.cp-attorneys-team-space-2.padding-top-60.investigadores{
+        width: 115vw;
+    }
+    .pgwSlideshow.narrow .ps-caption{
+        font-size: 7px;
+        line-height: 6px;
+    }
+    .ps-current{
+        height: 44vh !important;
+    }
+    span.ps-caption {
+        width: 96vw !important;
+        top: 62% !important;
+        height: 27vh !important;
+    }
+    .pgwSlideshow .ps-current>ul>li img{
+        position: relative;
+        left: 38%;
+    }
+    .ps-current {
+        height: 70vh !important;
+    }
+
+    /******* Vista contactanos *********/
+    #parallelogram{
+        width: 30.8vw !important;
+    }
+    #parallelogram2{
+        width: 32vw !important;
+    }
+}
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+    /*** Investigadores *****/
+    section.cp-attorneys-team.cp-attorneys-team-space-2.padding-top-60.investigadores{
+        width: 115vw;
+    }
+    .pgwSlideshow.narrow .ps-caption{
+        font-size: 7px;
+        line-height: 6px;
+    }
+    .ps-current{
+        height: 44vh !important;
+    }
+    span.ps-caption {
+        width: 96vw !important;
+        height: 41vh !important;
+    }
+    /*.pgwSlideshow .ps-current>ul>li img{
+        position: relative;
+        left: 38%;
+
+        border-radius: 95% !important;
+        height: 29% !important;
+        width: 41%;
+        margin-top: 21px;
+        margin-left: 15%;
+    }*/
+    .ps-current {
+        height: 70vh !important;
+    }
+    .ps-current {
+        height: 42vh !important;
+    }
+    p.letraMenu.investigadores{
+        left: -4vw;
+    }
+
+    #header{
+        height: 132px !important;
+    }
+
+
+    /****** Vista contactanos ******/
+    .cp-map-row{
+        margin: 60px 0 50px 9px;
+    }
+    /*@media (min-width: 1365px){
+    span.ps-caption {
+        left: 37.9vw !important;
+        width: 43% !important;
+    }
+    .pgwSlideshow .ps-caption {
+        width: 54% !important;
+        left: 31vw !important;
+    }
+
+}*/
+}
+@media only screen and (min-width : 480px) and (orientation : landscape){
+    div#myCarousel {
+        height: 63vh !important;
+    }
+   /* #header {
+        height: 70px !important;
+    }*/
+    .cp-attorneys-style-2 {
+        width: 159px !important;
+    }
+    .cp-practice-area .cp-box .frame img {
+        height: 15vh !important;
+    }
+    #cp-banner img {
+        width: 100%;
+        margin-left: 0%;
+    }
+    /** IIDE vista ****/
+    p.text-justify{
+        line-height: 11px !important;
+    }
+    .accordion_cp{
+        padding: 7px 18px 9px 39px;
+    }
+    .cp-theme-style-1 p{
+        font-size: 12px !important;
+    }
+    .cp-heading-1 em, em.text-justify{
+        font: 400 11px/26px 'Open Sans',sans-serif !important;
+    }
+    .cp-theme-style-1 h3.black{
+        font: 400 17px/24px 'Open Sans',sans-serif !important;
+    }
+
+}
+/*@media (min-width: 768px) and (max-width: 1280px){
+    ol.carousel-indicators {
+        display: inline;
+    }
+}*/
+/***** Entre ipad y laptop 1024x1280 *****/
+@media (min-width: 1024px) and (max-width: 1280px){
+
+    /****** Vista de investigadore *******/
+    .pgwSlideshow .ps-current>ul>li img{
+        border-radius: 95% !important;
+        width: 55%;
+    }
+    span.ps-caption {
+        left: 47% !important;
+        width: 44% !important;
+        height: 100% !important;
+    }
+    .ps-current{
+        height: 42% !important;
+    }
+    .pgwSlideshow .ps-current{
+        min-height: 400px;
+    }
+}
+/****** Lap top 1200 hasta 1600 px ******/
+@media (min-width: 1280px) {
+    .carousel-indicators{
+        bottom: 0px !important;
+    }
+    .cp-copyright-section1{
+        height: 80px !important;
+    }
+    .cp-text-box.seminarios.movil, .cp-text-box.foros.movil {
+        width: 90% !important;
+    }
+    .cp-text-box.news {
+        width: 84.5% !important;
+    }
+    .cp-heading-1 {
+        padding: 2vh 0 5vh 0 !important;
+    }
+    p.more-news {
+        display: inline;
+    }
+    .fb-page.fb_iframe_widget{
+        margin-left: 3%;
+    }
+    ol.carousel-indicators {
+        display: inline;
+    }
+    .fb_iframe_widget span{
+        height: 477px !important;
+    }
+    .footer-social1{
+        top: 19px;
+    }
+    /****** Vista oferta educativa ******/
+    section.cp-practice-style-1.padding-tb-60.oferta {
+        margin-top: 10% !important;
+    }
+    ul.confe {
+        margin: 0 0 11px 0px;
+        text-align: initial;
+    }
+    li.conferencias {
+        list-style-position: outside;
+        margin-left: 16px;
+    }
+
+    /****** Vista de investigadore *******/
+    .pgwSlideshow .ps-current>ul>li img{
+        border-radius: 95% !important;
+        width: 55%;
+    }
+    span.ps-caption {
+        left: 47% !important;
+        width: 44% !important;
+        height: 100% !important;
+    }
+    .ps-current{
+        height: 42% !important;
+    }
+    .pgwSlideshow .ps-current{
+        min-height: 400px;
+    }
+    /****** Vista de sistema *******/
+    section.cp-gallery.padding-tb-60.gallery {
+        padding: 15px 0 !important;
+    }
+    /****** Vista de directorio *******/
+    #parallelogram{
+        width: 100% !important;
+        left: -404px !important;
+        /*position: absolute !important;*/
+    }
+    #parallelogram2 {
+        width: 47vw !important;
+    }
+    .cp-award-box{
+        padding-left: 0vw !important;
+        padding-top: 0px !important;
+    }
+    .cp-award-section .cp-award-box .text-box {
+        width: 52vw !important;
+    }
+    /****** Vista revista ******/
+    li.text-justify.magazine{
+        font-size: 12px !important;
+        text-align: left !important;
+    }
+    .padding-top-60 {
+        padding: 30px 0;
+    }
+
+    /****** Vista noticias ******/
+    section.cp-blog.padding-top-60.newsection {
+        padding-bottom: 8% !important;
+    }
+
+    /****** Vista revista completa ******/
+    .magazine-viewport{
+        height: 626px !important;
+    }
+    .page-wrapper, .next-button, .previous-button{
+        top: 11% !important;
+    }
+}
+/****** Lap top 6200 hasta 2560 px ******/
+@media (min-width: 1600px){
+    #parallelogram {
+        width: 257.8%;
+        left: -818px;
+        /*position: absolute;*/
+    }
+    #parallelogram2 {
+        width: 47vw;
+    }
+
+    /****** Vista de sistema *******/
+    section.cp-gallery.padding-tb-60.gallery {
+        padding: 15px 0 !important;
+    }
+    /****** Vista de investigadore *******/
+    .pgwSlideshow .ps-current>ul>li img{
+        border-radius: 95% !important;
+        width: 55%;
+    }
+    span.ps-caption {
+        left: 47% !important;
+        width: 44% !important;
+        height: 100% !important;
+    }
+    .ps-current{
+        height: 42% !important;
+    }
+    .pgwSlideshow .ps-current{
+        min-height: 400px;
+    }
+    /***** Vista de Directorio *******/
+    .cp-award-box {
+        padding-left: 0vw !important;
+        padding-top: 0px !important;
+    }
+    .cp-award-section .cp-award-box .text-box {
+        width: 35vw !important;
+    }
+    /****** Vista revista ******/
+    li.text-justify.magazine{
+        font-size: 12px !important;
+        text-align: left !important;
+    }
+    .padding-top-60 {
+        padding: 30px 0;
+    }
+}
+
+@media (min-width: 1360px) and (max-width: 1380px){
+    p.letraMenu.ibero, p.letraMenu.contactanos, p.letraMenu.revista{
+        left: -4vw !important;
+    }
+    img.imgiberonautas {
+        margin-left: 30px;
+    }
+}
+
+/**********1024 a 1400 px ancho*************/
+@media (min-width: 1024px) and (max-width: 1400px){
+    p.text{
+        margin-right: 0px !important;
+    }
+    .footer-social1 li {
+        padding: 0 10px 0;
+    }
+    a.salamanca, p.menu{
+        font-size: 11px !important;
+    }
+    .footer-social1{
+        padding: 10px;
+    }
+    .cp-copyright-section1{
+        height: 60px;
+    }
+    .cp-attorneys-style-2{
+        width: 166px;
+        padding: 5px !important;
+    }
+    iframe{
+        height: 49vh !important;
+    }
+    #twitter-widget-1 {
+        height: 60vh !important;
+    }
+    iframe.youtube {
+        width: 50vw !important;
+    }
+    p.text.sitiointeres {
+        margin-left: 67px;
+    }
+}
+/************Fin media query de palacio **********/
+
+
+@media (max-height: 850px){
+    .fb_iframe_widget iframe {
+        height: 416px !important;
+    }
+    /*#cp-banner img {
+        width: 84%;
+    }*/
+}
+
+@media (min-width: 922px) and (max-width: 1400px){
+    p.letraMenu.estudia {
+        left: 47vw !important;
+        font-size: 13px !important;
+    }
+    span.jssora08r {
+        left: 43.45vw !important;
+        top: 0px;
+    }
+    span.jssora08l {
+        left: 38vw !important;
+    }
+}
+@media (min-width: 1535px){
+   /* span.ps-caption {
+        left: 33.9vw !important;
+        width: 44% !important;
+    }*/
+
+    p.letraMenu {
+        left: 46.2%;
+    }
+    /*.pgwSlideshow .ps-current>ul>li img {
+        border-radius: 95% !important;
+        height: 29% !important;
+    }*/
+}
+@media (max-height: 768px) and (min-height: 500px){
+    div#myTababout {
+        height: 59.5vh;
+    }
+    a.list-group-item.text-center.about {
+        height: 12vh;
+    }
+    .fb_iframe_widget iframe{
+        height: 350px !important;
+    }
+
+}
+
+
+
+/**********1401 a max px ancho*************/
+@media (min-width: 1401px){
+    .my-slider.unslider-vertical {
+        height: 81vh !important;
+    }
+    .cp-head-topbar{
+        width: 104vw;
+    }
+    .col-md-8.col-xs-12.sliderhome {
+        height: 100% !important;
+    }
+    .container.index {
+        margin-top: 18vh !important;
+    }
+    .cp-award-section .cp-award-box .text-box{
+        width: 45vw;
+    }
+    .cp-award-box{
+        padding-left: 0.6vw;
+    }
+    #twitter-widget-1 {
+        height: 60vh !important;
+    }
+    span.jssora08r {
+        left: 41.45vw !important;
+        top: 0px;
+    }
+    span.jssora08l {
+        left: 38vw !important;
+    }
+    .cp-award-section .cp-award-box {
+        margin: 0 0 0 14% !important;
+    }
+
+
+}
+@media (min-width: 1816px){
+    span.jssora08r {
+        left: 25.45vw !important;
+        top: 0px;
+    }
+    span.jssora08l {
+        left: 23vw !important;
+    }
+}
+/*@media (max-width: 690px) {
+    div#mCSB_5 {
+        left: 0px !important;
+    }
+}*/
+
+@media (max-width: 520px){
+    .col-md-8.col-xs-12.sliderhome {
+        padding-top: 0.5vh !important;
+    }
+
+}
+/********** Fin 1024 a 1400 px ancho *************/
+
+
+@media (max-width: 767px) {
+
+    .cp-copyright-section1 {
+        height: 115px;
+    }
+
+    body {
+        position: absolute !important;
+        overflow-y: auto !important;
+        height: 100%;
+    }
+    .footer-social1{
+        padding: 1px;
+    }
+    p.text{
+        margin-right: 0px !important;
+    }
+    .footer-social1 li{
+        padding: 0 6px 0;
+    }
+    .my-slider.unslider-vertical{
+        height: 50vh !important;
+    }
+    .unslider {
+        height: 50vh !important;
+    }
+    .col-md-8.col-xs-12.sliderhome {
+        height: 50vh !important;
+        padding-top: 1.5vh !important;
+    }
+    .cp-theme-style-1 h2 {
+        font: 700 17px 'Open Sans',sans-serif !important;
+    }
+    a:hover, a:focus {
+        font-size: 9px;
+        line-height: 0px;
+    }
+    a.indexDiplomado {
+        font-size: 10px;
+        line-height: 2px;
+    }
+    .cp-theme-style-1 p {
+        font-size: 7px;
+        font: 300 11px/12px 'Open Sans',sans-serif;
+    }
+    .padding-top-60 {
+        padding: 60px;
+    }
+    .cp-theme-style-1 a.btn-style-1 {
+        padding: 0px 9px !important;
+    }
+    nav.unslider-nav {
+        margin-top: -50px;
+    }
+
+    /****Investigadores en inicio *****/
+
+    .cp-attorneys-style-2.investi {
+        margin-top: -27px;
+    }
+    .cp-attorneys-style-2 {
+        width: 95px !important;
+    }
+    .cp-theme-style-1 h3 a {
+        font-size: 10px;
+        line-height: 0px;
+    }
+    .cp-attorneys-style-2 .frame .caption{
+        height: 48%;
+    }
+    .cp-attorneys-style-2.investi {
+        margin-top: 0px !important;
+    }
+    .cp-attorneys-style-2 .frame{
+        margin: 0px;
+    }
+    .cp-attorneys-style-2 .frame{
+        height: 79px !important;
+    }
+    .cp-theme-style-1 h3 a{
+        font-size: 8px !important;
+    }
+    .logo.visible-xs {
+        float: left;
+        width: 60vw;
+    }
+    .navbar-toggle{
+        margin-top: 0px;
+    }
+    li.menumovil {
+        padding: 13px 0px;
+    }
+    p.menu{
+        color: #552030 !important;
+        font-weight: 700 !important;
+        font-size: 15px !important;
+        background-image: none !important;
+        background-position: center right !important;
+        background-repeat: no-repeat !important;
+        padding-right: 17px !important;
+        padding: 0 15px 7px 0 !important;
+        text-transform: uppercase;
+        position: relative;
+    }
+    a.salamanca{
+        color: #570b31 !important;
+        font-weight: 700 !important;
+        font-size: 15px !important;
+        background-image: none !important;
+        background-position: center right !important;
+        background-repeat: no-repeat !important;
+        padding-right: 17px !important;
+        padding: 0 15px 0 10px !important;
+        text-transform: uppercase;
+        position: relative;
+    }
+}
+/************** FIN MEDIA QUERIES *****************/
+
+/********** iPad in landscape *************/
+@media only screen and (min-width : 692px) and (max-width : 1024px) and (orientation : landscape) {
+    .cp-practice-area ul li a{
+        font: 12px/20px 'Open Sans',sans-serif !important;
+    }
+    .cp-practice-area .cp-box .cp-text-box p {
+        margin: 0px 0 5px 0;
+    }
+    .cp-theme-style-1 p {
+        font-size: 9px;
+        font: 300 11px/17px 'Open Sans',sans-serif;
+    }
+    .cp-attorneys-style-2 {
+        width: 182px;
+    }
+    .cp-attorneys-style-2 .frame {
+        height: 167px !important;
+    }
+    /****** Vista de directorio ****/
+    #parallelogram{
+        width: 32.8vw !important;
+        left: -4%;
+        position: absolute;
+    }
+    /****** Vista de contactanos ****/
+    #header{
+        height: 110px !important;
+    }
+    .cp-map-row {
+        margin: 60px 15px 30px 10px;
+    }
+    /*#parallelogram {
+        margin-top: -4vh;
+    }*/
+}
+@media only screen and (min-height : 537px) and (max-height : 750px){
+    img.magazine-index{
+        height: 33vh;
+    }
+}
+/********** FIN iPad in landscape *************/
+@media only screen and (min-width : 692px) and (max-width : 1024px){
+    p.letraMenu {
+        left: 40%;
+    }
+    .navigation-right .navbar-inverse {
+        padding-top: 18px;
+    }
+    a.salamanca{
+        font-size: 12px !important;
+        padding: 0 12px 0 3px !important;
+    }
+    p.menu{
+        font-size: 9px !important;
+        font: 300 1px/11px 'Open Sans',sans-serif
+    }
+    p.text {
+        width: 30px !important;
+    }
+}
+#map-general{
+    position: relative !important;
+}
+.area-map {
+    position: absolute !important;
+}
+.area-map:hover,.area-map.click{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../images/system/mexico.png');
+    left: 278px;
+    top: 379px;
+}
+#c13m1l3.back-ground-cluster{
+    /*bottom: 60%;
+    right: 38.5%;*/
+    -ms-transform: rotate(44deg);
+    -webkit-transform: rotate(44deg);
+    transform: rotate(0deg);
+    width: 400px;
+    height: 400px;
+    padding-left: 206px !important;
+    padding-top: 206px !important;
+}
+#c13m1l3.back-ground-cluster.active{
+    background-color: transparent;
+    background-image: url(../images/system/mexico.png);
+    -ms-transform: rotate(-49deg);
+    -webkit-transform: rotate(-49deg);
+    transform: rotate(0deg);
+    width: 100%;
+   /* bottom: 58.3%;
+    right: 34.9%;*/
+    padding-left: 206px !important;
+    padding-top: 206px !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+img.cluster.cluster1 {
+    position: fixed;
+    left: 278px;
+    top: 379px;
+}
+.show-scroll {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+}
+.scroll-up {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    text-align: center;
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    background-color: #1d2026;
+    opacity: 0.4;
+    transform: translateY(100px);
+    -webkit-transform: translateY(100px);
+    -moz-transform: translateY(100px);
+    -ms-transform: translateY(100px);
+}
+#copyright-container{
+    position: relative;
+    padding: 10px 0;
+}
+a.scroll-up {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    top: 85%;
+}
+a.header-phone, a.header-email{
+    color: #ffffff !important;
+}
+li#constitucion, li.leyes, li.jurisprudencia {
+    font-size: 11px !important;
+    line-height: 20px !important;
+}
+.unslider{
+    height: 570px;
+}
+.sliderhome{
+    background-color: rgba(86, 88, 114, 0.9);
+}
+nav.unslider-nav {
+    margin-top: -10px;
+}
+.logo-box, .logo-box:hover, .logo-box:focus {
+    border-radius: 50%;
+}
+.frame, .frame:hover, .frame:focus {
+    border-radius: 50%;
+    margin-top: 33px;
+}
+.list-group-item{
+    padding: 5px 15px;
+}
+div#at4-share {
+    margin-top: 310px;
+}
+
+a.indexDiplomado {
+    color: white;
+}
+
+p.text-justify {
+    font-size: 16px;
+    line-height: 19px;
+}
+em.text-justify {
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.bhoechie-tab-content.mCustomScrollbar._mCS_5.active, .bhoechie-tab-content.mCustomScrollbar._mCS_3.active, .bhoechie-tab-content.mCustomScrollbar._mCS_4.active {
+    height: 60vh !important;
+}
+.accordion_cp{
+    font-size: 16px;
+}
+h3.titleconferencias {
+    color: #5a2737 !important;
+}
+/**** tab estudia*******/
+.col-lg-12.col-md-12.col-sm-12.col-xs-12.bhoechie-tab-container {
+    height: 60.5vh;
+    margin-top: 1vh;
+}
+div#myTab {
+    height: 60vh !important;
+}
+a.list-group-item.text-center {
+    height: 12.08vh;
+}
+.bhoechie-tab-content.active.mCustomScrollbar._mCS_1 {
+    height: 60vh !important;
+}
+div#mCSB_4 {
+    height: 58vh;
+}
+img.estudio.mCS_img_loaded {
+    height: 25.4vh;
+    width: 31vw;
+}
+.cp-text-box.diplomado{
+    padding: 0px;
+}
+a.btn-style-1 {
+    margin-top: 21px;
+}
+.navigation-right .navbar-inverse{
+    padding-top: 23px;
+}
+.col-md-8.col-xs-12.sliderhome {
+    height: 59.5vh;
+    padding-top: 5vh;
+}
+.col-md-4.redes.col-xs-12 {
+    height: 70vh;
+}
+
+.col-lg-8.col-md-8.col-sm-12.col-xs-12.bhoechie-tab-container.about{
+    height: 67vh;
+}
+a.list-group-item.text-center.about {
+    height: 11.7vh;
+}
+div#myTababout {
+    height: 58.5vh;
+}
+p.letraMenu.magazineview {
+    left: 25.2%;
+    line-height: 13px !important;
+    top: -67px;
+}
+a.list-group-item.text-center.about {
+    padding-top: 2vh;
+}
+a.list-group-item.text-center {
+    padding-top: 1vh;
+    font-size: 14px;
+}
+
+#parallelogram {
+    width: 40.8vw;
+    height: 40px;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    background: #552030;
+}
+#parallelogram2 {
+    width: 41vw;
+    height: 40px;
+    margin-top: 0px;
+    line-height: 0px !important;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    background: #5a5c73;
+}
+.cp-award-box {
+    padding-top: 25px;
+}
+/*
+svg {
+  position: absolute;
+  bottom: 0;
+  width: 20%;
+  height: 2.5vw;
+}*/
+a.list-group-item.text-center.view {
+    height: 12.05vh;
+    padding-top: 0vh;
+    font-size: 14px;
+}
+h1.namenews {
+    color: black;
+    padding: 22px;
+}
+
+.cp-theme-style-1 h3
+{
+    /*border-color: #552030;*/
+    color: #5a2736;
+    margin: 0 5px 10px 0;
+    position: relative;
+    /*border-left: 5px solid #5a5b74;*/
+    padding: 0 0 0 0;
+    text-align: left;
+}
+.cp-theme-style-1 h3 span {
+    font-weight: 400;
+}
+
+img.investigadores {
+    border-radius: 50%;
+}
+p.descriptionIndex {
+    font-size: 10px !important;
+    line-height: 11px;
+}
+.cp-attorneys-style-2.investi {
+    margin-top: 60px;
+}
+.cp-theme-style-1 .cp-attorneys-style-2 .btn-style-1{
+    margin: 6px auto;
+}
+.my-slider2.hidden-xs.unslider-horizontal {
+    height: 59.5vh;
+}
+
+.cp-text-box.objetivos {
+    padding-top: 1vh;
+    /*padding-left: 5vh;
+    padding-right: 5vh;*/
+}
+.black{
+    color: #000000;
+}
+
+.cp-award-section .cp-award-box .icon-box .fa {
+    height: 73px;
+    font-size: 44px;
+    line-height: 71px;
+}
+.cp-award-box {
+    padding-left: 7.6vw;
+}
+.cp-award-section .cp-award-box .logo-box{
+    margin-left: -20px;
+    margin-top: 8px;
+}
+.cp-award-section .cp-award-box .text-box{
+    width: 52vw ;
+    margin: 32px 0 0 0;
+    padding: 1px 20px;
+}
+p.letraMenu.system {
+    line-height: 14px !important;
+    left: -3vw;
+    top: -78px;
+}
+p.letraMenu.ibero, p.letraMenu.contactanos {
+    left: -2vw;
+    top: -74px;
+}
+p.letraMenu.revista{
+    left: -3vw;
+    line-height: 18px !important;
+    top: -68px;
+}
+p.letraMenu.directorio{
+    left: -1.5vw;
+    line-height: 18px !important;
+    top: -66px;
+}
+p.letraMenu.oples {
+    line-height: 9px !important;
+    left: -2vw;
+    top: -72px;
+    font-size: 10px !important;
+}
+img.magazineimg.mCS_img_loaded {
+    height: 48vh !important;
+    margin-top: 2%;
+}
+.consejo {
+    margin-left: 16%;
+    margin-top: 14%;
+}
+.carousel-inner.iberonautas{
+    padding-left: 12%;
+}
+img.imgiberonautas {
+    max-height: 48vh !important;
+}
+p.letraMenu.tribunales {
+    line-height: 15px !important;
+    top: -71px;
+    left: -1.5vw;
+}
+section.cp-blog.padding-top-60.directory {
+    width: 106vw;
+}
+img.mCS_img_loaded {
+    /* align-content: center !important; */
+    /* align-items: center !important; */
+    /* text-align: center !important; */
+    /*padding-left: 20%;*/
+}
+.cp-theme-style-1 h2{
+    margin: 0px !important;
+}
+.cp-attorneys-style-2{
+    width: 160px;
+    height: 205px;
+}
+.cp-attorneys-style-2.investi{
+    margin-top: 30px;
+}
+.cp-attorneys-style-2 .frame{
+    margin: 0 0 -14px 0;
+}
+.cp-theme-style-1 h3 a {
+    font-size: 16px;
+    color: white;
+}
+p.letraMenu.diplomados {
+    line-height: 35px !important;
+    left: 45%;
+}
+h5, li{
+    color: black;
+}
+section.cp-practice-area.cp-practice-space.padding-top-60.index {
+    padding: 0px;
+}
+.cp-img-effect-1:hover:before, .cp-img-effect-1:hover:after {
+    width: 39.898%;
+}
+.cp-img-effect-1:before{
+    -webkit-transform: rotate(5deg) scale(1.5);
+}
+.cp-img-effect-1:after{
+    -webkit-transform: rotate(5deg) scale(1.5);
+}
+.pgwSlider .ps-current img{
+    min-width: 50%;
+}
+.pgwSlider.wide>ul>li{
+    width: 50% !important;
+}
+
+.pgwSlider .ps-caption {
+    width: 43%;
+    padding: 24px;
+    left: 57%;
+    height: 100%;
+}
+.cp-theme-style-1 .cp-attorneys-style-2 h3{
+    line-height: 15px !important;
+    top: 15px;
+}
+.ps-current {
+    height: 50vh;
+}
+h3.profileInves{
+    text-align: left;
+    color: #000000;
+}
+.cp-attorneys-profile .holder{
+    padding: 0 0 105px 98px;
+}
+span.ps-caption {
+    text-align: justify !important;
+}
+/* jssor slider arrow navigator skin 02 css */
+/*
+.jssora02l                  (normal)
+.jssora02r                  (normal)
+.jssora02l:hover            (normal mouseover)
+.jssora02r:hover            (normal mouseover)
+.jssora02l.jssora02ldn      (mousedown)
+.jssora02r.jssora02rdn      (mousedown)
+.jssora02l.jssora02lds      (disabled)
+.jssora02r.jssora02rds      (disabled)
+*/
+.jssora08l, .jssora08r {
+    display: block;
+    position: absolute;
+    /* size of arrow element */
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background: url('../images/img/a08.png') no-repeat;
+    overflow: hidden;
+    opacity: .4;
+    filter: alpha(opacity=40);
+}
+.jssora08l { background-position: -5px -35px; }
+.jssora08r { background-position: -65px -35px; }
+.jssora08l:hover { background-position: -5px -35px; opacity: .8; filter:alpha(opacity=80); }
+.jssora08r:hover { background-position: -65px -35px; opacity: .8; filter:alpha(opacity=80); }
+.jssora08l.jssora08ldn { background-position: -5px -35px; opacity: .3; filter:alpha(opacity=30); }
+.jssora08r.jssora08rdn { background-position: -65px -35px; opacity: .3; filter:alpha(opacity=30); }
+.jssora08l.jssora08lds { background-position: -5px -35px; opacity: .3; pointer-events: none; }
+.jssora08r.jssora08rds { background-position: -65px -35px; opacity: .3; pointer-events: none; }
+/* jssor slider thumbnail navigator skin 11 css *//*.jssort11 .p            (normal).jssort11 .p:hover      (normal mouseover).jssort11 .pav          (active).jssort11 .pav:hover    (active mouseover).jssort11 .pdn          (mousedown)*/.jssort11 .p {    position: absolute;    top: 0;    left: 0;    width: 200px;    height: 69px;    background: #181818;}.jssort11 .tp {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    border: none;}.jssort11 .i, .jssort11 .pav:hover .i {    position: absolute;    top: 3px;    left: 3px;    width: 60px;    height: 30px;    border: white 1px dashed;}* html .jssort11 .i {    width /**/: 62px;    height /**/: 32px;}.jssort11 .pav .i {    border: white 1px solid;}.jssort11 .t, .jssort11 .pav:hover .t {    position: absolute;    top: 3px;    left: 68px;    width: 129px;    height: 32px;    line-height: 32px;    text-align: center;    color: #fc9835;    font-size: 13px;    font-weight: 700;}.jssort11 .pav .t, .jssort11 .p:hover .t {    color: #fff;}.jssort11 .c, .jssort11 .pav:hover .c {    position: absolute;    top: 38px;    left: 3px;    width: 194px;    height: 32px;    line-height: 32px;    color: #fff;    font-size: 11px;    font-weight: 400;    overflow: hidden;}.jssort11 .pav .c, .jssort11 .p:hover .c {    color: #fc9835;}.jssort11 .t, .jssort11 .c {    transition: color 2s;    -moz-transition: color 2s;    -webkit-transition: color 2s;    -o-transition: color 2s;}.jssort11 .p:hover .t, .jssort11 .pav:hover .t, .jssort11 .p:hover .c, .jssort11 .pav:hover .c {    transition: none;    -moz-transition: none;    -webkit-transition: none;    -o-transition: none;}.jssort11 .p:hover, .jssort11 .pav:hover {    background: #333;}.jssort11 .pav, .jssort11 .p.pdn {    background: #462300;}
+
+
+
+div#mCSB_5_container {
+    padding-left: 0vw;
+    /*left: 20vw !important;*/
+}
+a.indexDiplomado {
+    line-height: 16px;
+}
+.cp-text-box.foros {
+    position: absolute;
+    top: 0px;
+    height: 26%;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    width: 90% !important;
+}
+.cp-text-box.seminarios {
+    position: absolute;
+    top: 0px;
+    height: 26%;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    width: 90% !important;
+}
+.carousel-inner {
+    padding-top: 1px !important;
+}
+.cp-text-box.inves {
+    position: inherit;
+    height: 0px;
+    width: 106.5% !important;
+}
+h5.diplo {
+    line-height: 0px;
+}
+.cp-practice-area .cp-box .frame img{
+    height: 13vh;
+}
+
+.mCustomScrollBox{
+    height: 135%;
+}
+.bhoechie-tab-content.mCustomScrollbar._mCS_5.active, .bhoechie-tab-content.mCustomScrollbar._mCS_3.active{
+    height: 44vh !important;
+}
+p.letraMenu.quienes {
+    left: -3vw;
+    line-height: 16px !important;
+    top: -64px;
+}
+a.conferencia {
+    color: black;
+}
+.cp-text-box.diplomado{
+    height: 24%;
+}
+p.letraMenu.estudia{
+    left: -4vw !important;
+    line-height: 15px !important;
+    top: -102px;
+}
+.cp-text-box.news.conferencias, .cp-text-box.news.foros, .cp-text-box.news.talleres, .cp-text-box.news.seminarios{
+    height: 24%;
+}
+a.nameInveSlider{
+    font-size: 11px !important;
+}
+p.letraMenu.investigadores{
+    left: 46vw;
+}
+h4.title-news-slider{
+    margin: 0px 0;
+    line-height: 5px;
+}
+#twitter-widget-0, .fb-page.fb_iframe_widget{
+    width: 55% !important;
+    height: 100% !important;
+    min-height: 52vh !important;
+}
+.bhoechie-tab-content.active.facebook{
+    width: auto;
+}
+iframe {
+    width: 72vw !important;
+    height: 48vh;
+}
+img.conferencias.mCS_img_loaded {
+    height: 22vh;
+    width: 36vh;
+    padding-bottom: 7px;
+    padding-top: 19px;
+}
+
+span.ps-caption {
+    z-index: 1;
+    position: absolute;
+    height: 50vh;
+    left: 36.1vw;
+    width: 33vw;
+    top: 0vh;
+}
+.pgwSlideshow .ps-current>ul>li{
+    width: 52%;
+}
+.magazine {
+    text-align: center;
+}
+.main{
+    cursor:default;
+    position:relative;
+    top:30px;
+    left:0px;
+    width:600px;
+    height:53vh !important;
+    overflow:hidden;
+}
+#jssor_1{
+    position:relative;
+   /* margin:0 auto;*/
+    top: 4vh;
+    left:0px;
+   /* width:100% !important;*/
+    height:59vh !important;
+    overflow:hidden;
+    visibility:hidden;
+}
+.loading{
+    position:absolute;
+    top:0px;
+    left:0px;
+    background-color:rgba(0,0,0,0.7);
+}
+.jssora08l{
+    top:0px;
+    left:8px;
+    width:50px;
+    height:50px;
+}
+.jssora08r{
+    bottom:0px;
+    right:8px;
+    width:50px;
+    height:50px;
+}
+
+p.letraMenu.investigadores {
+    left: -4vw;
+    line-height: 10px !important;
+    top: -68px;
+}
+.cp-blog .cp-post-box .cp-text-box p{
+    margin: 0 0 8px 0;
+}
+/*#cp-banner img{
+    width: 85%;
+}*/
+
+p.titleview {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 900;
+    padding-top: 7px;
+}
+.col-md-12.direc {
+    padding-bottom: 50px;
+}
+img.sistema-index, img.magazine-index{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.cp-blog .cp-post-box .frame{
+    margin: 0 0 10px 0;
+}
+.cp-heading-1 em{
+    margin: -10px 0 15px 0;
+}
+section.cp-practice-style-1.padding-tb-60.oferta {
+    margin-top: 13%;
+}
+.carousel-inner.redes {
+    padding-top: 30px !important;
+}
+.magazine-viewport .container{
+    top: 36% !important;
+}
+.text-general{
+    line-height: 0px !important;
+    font-size: 12px !important;
+    text-align: justify;
+    color: black;
+}
+img.sitiosInteres {
+    height: 60px !important;
+}
+li.conferencias {
+    list-style-position: outside;
+    margin-left: 16px;
+}
+h1.namenews {
+    line-height: 52px;
+}

@@ -1,0 +1,46 @@
+<div id="block-drupalnav-drupalnav" class="block block-drupalnav">
+	<div class="content main-navigation">
+		<div class="row">
+			<div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+				<ul id="parallelogram">
+				</ul>
+			</div>
+			<div class="col-sm2 col-md-2 col-lg-2 col-xs-4">
+				<p class="titleview">Investigadores</p>
+			</div>
+			<div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+				<ul id="parallelogram2">
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
+<div id="main">
+	<section class="cp-attorneys-profile">
+		<div class="attorney-details">
+			<div class="container">
+				<div class="holder">
+					<div class="row">
+						<div class="col-md-4 col-sm-6">
+							<div class="cp-frame-box">
+								<div class="frame"><img class="investigadores" src="/front/src/images/attorneys/<?=$investigador->getPhoto();?>" alt="img"></div>
+							</div>
+						</div>
+						<div class="col-md-8 col-sm-6">
+							<div class="cp-text-box">
+								<h3 class="profileInves"><?=$investigador->getName();?></h3>
+								<span>Investigador IIDE</span>
+								<address>
+								</address>
+								<div class="col-md-12 col-sm-12">
+									<?=$investigador->getDescription();?>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div> 

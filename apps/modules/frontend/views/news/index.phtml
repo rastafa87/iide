@@ -1,0 +1,63 @@
+<div id="block-drupalnav-drupalnav" class="block block-drupalnav">
+    <div class="content main-navigation">
+        <div class="row">
+            <div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+                <ul id="parallelogram">
+                </ul>
+            </div>
+            <div class="col-sm2 col-md-2 col-lg-2 col-xs-4">
+                <p class="titleview">Noticias de IIDE</p>
+            </div>
+            <div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+                <ul id="parallelogram2">
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="main">
+    <section class="cp-blog padding-top-60 newsection">
+        <div class="container">
+            <div class="row">
+                <!--div class="cp-news-listing-slider news">
+                    <div id="blog-slider" class="owl-carousel owl-theme">
+                        <div class="item"-->
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <!--div class="frame img-news"-->
+                                <img class="img-news" src="/front/src/images/news/news-main.jpg" alt="img">
+                            <!--/div-->
+                            </div>
+                        <!--/div>
+                    </div>
+                </div-->
+                <?php foreach($note as $obj):?>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="cp-tweet-box">
+                            <div class="row">
+                                <div class="col-md-4 col-lg-4 col-sm-4 col-xs-4">
+                                    <div class="detail-row minuto">
+                                        <ul>
+                                            <?php $newDate = explode("-",date("h-i-d-m-Y", strtotime($obj->getDatePublic())));?>
+                                            <li><a href="#" class="date-news"><?= $newDate[0]?>:<?= $newDate[1]?>, <?= $newDate[2]?> <?= $date[$newDate[3]]?> <?= $newDate[4]?></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8 col-lg-8 col-sm-8 col-xs-8">
+                                    <div class="cp-text-box newsbox">
+                                        <h3><a class="new-titile" href="/noticias/nacionales/<?= $obj->getPermalink() ?>"><?= $obj->getTitle() ?> </a></h3>
+
+                                        <p class="newsall"> <?=$obj->getSummary()?></p>
+                                        <a href="/noticias/nacionales/<?= $obj->getPermalink()?>" class="btn-style-1">Leer Más</a>
+                                        <br/>
+                                        <br/>
+                                        <br/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <?php endforeach?>
+            </div>
+        </div>
+    </section>
+</div>

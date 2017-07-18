@@ -1,0 +1,226 @@
+<div class="block">
+	<div class="content main-navigation">
+		<div class="row">
+			<div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+				<ul id="parallelogram">
+				</ul>
+			</div>
+			<div class="col-sm2 col-md-2 col-lg-2 col-xs-4">
+				<p class="titleview">Estudia en el IIDE</p>
+			</div>
+			<div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+				<ul id="parallelogram2">
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="cp-box">
+		<div class="row">
+			<section class="cp-practice-style-1 padding-tb-60 oferta">
+				<div class="row magazine">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bhoechie-tab-container">
+						<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 bhoechie-tab-menu">
+							<div class="list-group">
+								<a href="#" class="list-group-item text-center">
+									<h4 class="glyphicon glyphicon-eye-open"></h4><br/>Conferencias
+								</a>
+								<a href="#" class="list-group-item text-center">
+									<h4 class="glyphicon glyphicon-check"></h4><br/>Foros
+								</a>
+								<a href="#" class="list-group-item text-center">
+									<h4 class="glyphicon glyphicon-check"></h4><br/>Talleres
+								</a>
+								<a href="#" class="list-group-item active text-center">
+									<h4 class="glyphicon glyphicon-bullhorn"></h4><br/>Seminarios
+								</a>
+								<a href="#" class="list-group-item text-center">
+									<h4 class="glyphicon glyphicon-folder-open"></h4><br/>Diplomados
+								</a>
+
+							</div>
+						</div>
+						<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 bhoechie-tab"  style="overflow-y:auto; width: 83%;" id="myTab">
+
+							<div class="bhoechie-tab-content">
+								<div class="cp-box estudio">
+									<div class="row">
+										<div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+											<div class="cp-text-box diplomado">
+												<h3 class="titleconferencias">Conferencias Magistrales</h3>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+												<p class="text-justify">
+													<ul class="confe">
+														<?php foreach($conferencias as $confe):?>
+															<li class="conferencias"><?=$confe->title;?></li>
+														<?php endforeach;?>
+													</ul>
+												</p>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+													<img class="conferencias" src="/front/src/images/conferencias/CONFERENCIAS.jpg" alt="img">
+													<img class="conferencias" src="/front/src/images/conferencias/CONFERENCIAS1.jpg" alt="img">
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="bhoechie-tab-content">
+								<?php foreach($foros as $key => $foro):?>
+									<?php if($key%2==0):?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify foros"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php else:?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box text-align-right diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify foros"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php endif;?>
+								<?php endforeach;?>
+							</div>
+
+							<div class="bhoechie-tab-content">
+								<?php foreach($talleres as $key => $foro):?>
+									<?php if($key%2==0):?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php else:?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box text-align-right diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php endif;?>
+								<?php endforeach;?>
+							</div>
+							<div class="bhoechie-tab-content active">
+								<?php foreach($seminarios as $key => $foro):?>
+									<?php if($key%2==0):?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php else:?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box text-align-right diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php endif;?>
+								<?php endforeach;?>
+
+							</div>
+							<div class="bhoechie-tab-content">
+								<?php foreach($diplomados as $key => $foro):?>
+									<?php if($key%2==0):?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php else:?>
+										<div class="cp-box estudio">
+											<div class="row">
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="cp-text-box text-align-right diplomado">
+														<h3><a class="black" href="/cursos/<?=$foro->permalink;?>"><?=$foro->title;?></a></h3>
+														<p class="text-justify"><?=$foro->summary;?></p>
+														<a href="/cursos/<?=$foro->permalink;?>" class="btn-style-1">Leer Más</a>
+													</div>
+												</div>
+												<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+													<div class="frame"> <img class="estudio" src="/dash/img/notes/<?=$foro->image;?>" alt="img">
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php endif;?>
+								<?php endforeach;?>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+</div>

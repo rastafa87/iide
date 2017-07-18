@@ -1,0 +1,79 @@
+<div id="block-drupalnav-drupalnav" class="block block-drupalnav">
+    <div class="content main-navigation">
+        <div class="row">
+            <div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+                <ul id="parallelogram">
+                </ul>
+            </div>
+            <div class="col-sm2 col-md-2 col-lg-2 col-xs-4">
+                <p class="titleview">Noticias</p>
+            </div>
+            <div class="col-sm5 col-md-5 col-lg-5 col-xs-4">
+                <ul id="parallelogram2">
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="main">
+    <section class="cp-blog padding-top-60">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    <h1 class="namenews"><?=$note->getTitle()?></h1>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <div class="frame cp-img-effect-1 diplomado"> <a href="#"><img src="/dash/img/notes/1170/<?=$note->getImage()?>" alt="img"></a> </div>
+                    </div>
+                    <div class="cp-post-box">
+
+                        <div class="cp-text-box">
+                            <div class="detail-row">
+                                <ul>
+                                    <?php $newDate = explode("-",date("d-m-Y", strtotime($note->getDatePublic())));?>
+
+
+                                    <li><a href="#"><?= $newDate[0]?> <?= $date[$newDate[1]]?>, <?= $newDate[2]?></a></li>
+                                </ul>
+
+                            </div>
+                            <div class="contenido-noticia">
+                                <?=$note->getContent()?>
+                            </div>
+
+                            <!--div class="cp-author-box">
+                                <h3>Acerca del Autor</h3>
+                                <div class="thumb"><a href="#"><img src="/dash/assets/images/users/thumbnail/<?=$note->getPhoto()?>" alt="img" class="image-autor"></a></div>
+                                <div class="text-box"> <strong class="name"><?=$note->getName()?> <?=$note->getLastname()?></strong>
+                                    <p><?=$note->getCargo()?></p>
+                                </div>
+                            </div-->
+
+                            <div id="disqus_thread"></div>
+                            <script>
+
+                                /**
+                                 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                                 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                                /*
+                                 var disqus_config = function () {
+                                 this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                                 this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                                 };
+                                 */
+                                (function() { // DON'T EDIT BELOW THIS LINE
+                                    var d = document, s = d.createElement('script');
+                                    s.src = '//http-iide-com-mx.disqus.com/embed.js';
+                                    s.setAttribute('data-timestamp', +new Date());
+                                    (d.head || d.body).appendChild(s);
+                                })();
+                            </script>
+                            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
