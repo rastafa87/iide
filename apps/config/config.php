@@ -4,7 +4,6 @@ return new \Phalcon\Config(array(
     'database' => array(
         'adapter'     => 'Mysql',
         'host'        => '127.0.0.1',
-        'port'        => '8889',
         'username'    => 'root',
         'password'    => 'root',
         'dbname'      => 'cd_retos',
